@@ -23,7 +23,7 @@ a{
 }
 
 #hero{
-    background-image: url(Black\ screen.jpg);
+    background-image: url(White\ wallpaper\ #2.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -78,7 +78,7 @@ a{
 }
 
 #hero .cta:hover{
-    color: black;
+    color: white;
     background-color: rgb(76, 73, 226);
 }
 
@@ -98,6 +98,16 @@ a{
 
 @keyframes text_reveal{
     100%{
-        color: white;
+        color: black;
     }
+}
+
+
+
+#politiek-juridisch{
+    background-color: rgb(98, 100, 253);
+}
+
+#politiek-juridisch{
+        
 }
